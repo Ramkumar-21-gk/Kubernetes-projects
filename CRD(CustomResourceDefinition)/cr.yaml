@@ -1,0 +1,7 @@
+kind: Devops
+apiVersion: ram.com/v1
+metadata:
+  name: mycr
+spec:
+  name: "Ram"
+  age: 22
